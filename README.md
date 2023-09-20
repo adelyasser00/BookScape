@@ -1,2 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_53rbxR4)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10959157&assignment_repo_type=AssignmentRepo)
+# Bookscape
+
+Bookscape is a website developed to browse a library of thousands of books, add them to your lists, read comments on any books and share your thoughts on any book with everyone!
+
+Developed by Adel Yaser Aglan, Hayam Mohamed Hiba, and Manar Amgad Helal as a final project for Software Engineering subject, supervised by Prof. Dr. Yousry Taha and T.A Eng. Hashim
